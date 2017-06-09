@@ -11,6 +11,7 @@ current_max = 0
 
 
 end
+#470
 
 def queues(arr,window)
 
@@ -26,3 +27,7 @@ def queues(arr,window)
   end
   current_max
 end
+
+ 
+# arr = [*(1..69)]
+#q 537
